@@ -10,7 +10,7 @@ const Hero = () => {
 
   return (
     <>
-      <Spline scene="https://prod.spline.design/U5NsGEmMshbTMkNZ/scene.splinecode" />
+      <Spline scene="https://prod.spline.design/1JdYPQq8-L2qYUTO/scene.splinecode" />
       <Section
         className="pt-[12rem] -mt-[5.25rem]"
         crosses
