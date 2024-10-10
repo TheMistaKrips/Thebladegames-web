@@ -48,6 +48,16 @@ const Services = () => {
             </div>
           </div>
         </div>
+        <h1 className="body-1 max-w-4xl mx-auto mb-6 text-n-2 lg:mb-8">
+          You have the opportunity to invest in a project that promises to become a gaming hit and attract a wide audience of players.
+        </h1>
+        <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8">
+          We invite you to cooperate! Contact us by email thebladegames.studio@mail.ru to get more information about the project. We will be happy to present you with a detailed game development plan, analyze the key stages of financing and answer all your questions.
+        </p>
+        <h1 className="body-1 max-w-4xl mx-auto mb-6 text-n-2 lg:mb-8">
+
+          Together we can create a game that wins the hearts of the players!
+        </h1>
       </div>
     </Section>
   );
